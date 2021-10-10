@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-10-04T00:11:09 IST" name="Suite" finished-at="2021-10-04T00:11:20 IST" duration-ms="10705">
+  <suite started-at="2021-10-04T00:36:05 IST" name="Suite" finished-at="2021-10-04T00:36:13 IST" duration-ms="7733">
     <groups>
     </groups>
-    <test started-at="2021-10-04T00:11:09 IST" name="Test" finished-at="2021-10-04T00:11:20 IST" duration-ms="10705">
+    <test started-at="2021-10-04T00:36:05 IST" name="Test" finished-at="2021-10-04T00:36:13 IST" duration-ms="7733">
       <class name="com.Search.tests.GoogleSearch">
-        <test-method is-config="true" signature="initlizeExtentReportsObject()[pri:0, instance:com.Search.tests.GoogleSearch@4f80542f]" started-at="2021-10-04T00:11:09 IST" name="initlizeExtentReportsObject" finished-at="2021-10-04T00:11:09 IST" duration-ms="187" status="PASS">
+        <test-method is-config="true" signature="initlizeExtentReportsObject()[pri:0, instance:com.Search.tests.GoogleSearch@4f80542f]" started-at="2021-10-04T00:36:05 IST" name="initlizeExtentReportsObject" finished-at="2021-10-04T00:36:05 IST" duration-ms="182" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initlizeExtentReportsObject -->
-        <test-method is-config="true" signature="initilizeDriver()[pri:0, instance:com.Search.tests.GoogleSearch@4f80542f]" started-at="2021-10-04T00:11:09 IST" name="initilizeDriver" finished-at="2021-10-04T00:11:11 IST" duration-ms="1774" status="PASS">
+        <test-method is-config="true" signature="initilizeDriver()[pri:0, instance:com.Search.tests.GoogleSearch@4f80542f]" started-at="2021-10-04T00:36:05 IST" name="initilizeDriver" finished-at="2021-10-04T00:36:07 IST" duration-ms="1828" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initilizeDriver -->
-        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Search.tests.GoogleSearch@4f80542f]" started-at="2021-10-04T00:11:11 IST" name="startTest" finished-at="2021-10-04T00:11:15 IST" duration-ms="3966" status="PASS">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Search.tests.GoogleSearch@4f80542f]" started-at="2021-10-04T00:36:07 IST" name="startTest" finished-at="2021-10-04T00:36:09 IST" duration-ms="1569" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,7 +26,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startTest -->
-        <test-method signature="TC01(java.lang.String, java.lang.String)[pri:0, instance:com.Search.tests.GoogleSearch@4f80542f]" started-at="2021-10-04T00:11:15 IST" name="TC01" data-provider="data" finished-at="2021-10-04T00:11:19 IST" duration-ms="4167" status="PASS">
+        <test-method signature="TC01(java.lang.String, java.lang.String)[pri:0, instance:com.Search.tests.GoogleSearch@4f80542f]" started-at="2021-10-04T00:36:09 IST" name="TC01" data-provider="data" finished-at="2021-10-04T00:36:12 IST" duration-ms="3477" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -42,7 +42,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC01 -->
-        <test-method is-config="true" signature="logResults(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.Search.tests.GoogleSearch@4f80542f]" started-at="2021-10-04T00:11:19 IST" name="logResults" finished-at="2021-10-04T00:11:19 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="logResults(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.Search.tests.GoogleSearch@4f80542f]" started-at="2021-10-04T00:36:12 IST" name="logResults" finished-at="2021-10-04T00:36:12 IST" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -58,11 +58,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logResults -->
-        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.Search.tests.GoogleSearch@4f80542f]" started-at="2021-10-04T00:11:19 IST" name="closeApplication" finished-at="2021-10-04T00:11:20 IST" duration-ms="649" status="PASS">
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.Search.tests.GoogleSearch@4f80542f]" started-at="2021-10-04T00:36:12 IST" name="closeApplication" finished-at="2021-10-04T00:36:13 IST" duration-ms="709" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApplication -->
-        <test-method is-config="true" signature="publishExtentReport()[pri:0, instance:com.Search.tests.GoogleSearch@4f80542f]" started-at="2021-10-04T00:11:20 IST" name="publishExtentReport" finished-at="2021-10-04T00:11:20 IST" duration-ms="151" status="PASS">
+        <test-method is-config="true" signature="publishExtentReport()[pri:0, instance:com.Search.tests.GoogleSearch@4f80542f]" started-at="2021-10-04T00:36:13 IST" name="publishExtentReport" finished-at="2021-10-04T00:36:13 IST" duration-ms="199" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- publishExtentReport -->
